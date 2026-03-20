@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=800&lines=🛡️+GigShield+AI;Parametric+Insurance+for+India's+Gig+Economy;Powered+by+AI+%7C+Built+for+the+Streets" alt="Typing SVG" />
-
-<br/>
 
 ```
  ██████╗ ██╗ ██████╗     ███████╗██╗  ██╗██╗███████╗██╗     ██████╗ 
@@ -14,6 +11,8 @@
 ```
 
 ### *When the rain stops deliveries, your income shouldn't stop too.*
+
+### *Video Link : https://drive.google.com/file/d/1PaFL-G3YwtZvu-KWIMfy0Tcw6PAIz6OE/view?usp=sharing*
 
 ---
 
@@ -494,7 +493,7 @@ WEEK  6  ████████████████████  [SOAR]  I
 |----------|------|
 | 🌐 DEVTrails 2026 | [guidewiredevtrails.com](https://guidewiredevtrails.com) |
 | 📄 Use Case Document | [DEVTrails_2026_Usecase_Document.pdf](https://guidewiredevtrails.com/asset/images/DEVTrails_2026_Usecase_Document.pdf) |
-| 📹 Phase 1 Video | [Coming March 20] |
+| 📹 Phase 1 Video | (https://drive.google.com/file/d/1PaFL-G3YwtZvu-KWIMfy0Tcw6PAIz6OE/view?usp=sharing) |
 
 ---
 
